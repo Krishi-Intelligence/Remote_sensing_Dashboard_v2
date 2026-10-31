@@ -1,0 +1,7 @@
+# Secrets: never commit\n.env\n.env.*\nnode_modules\n
+node_modules
+
+node_modules/
+.env
+.env.*
+!.env.example
